@@ -15,13 +15,13 @@ Inizio
         - torna a scorrere tra le foto
         - OPPURE SE la foto ha bisogno di un filtro?
             - scegli il filtro adatto e applicalo
-            - SE Mi piace più delle altre?
-                - prepara alla pubblicazione
-                    - SE ho controllato tutte le foto?
-                        - PUBBLICA
-                    - OPPURE torna a scorrere tra le foto    
-                - OPPURE torna a scorrere tra le foto 
-            - OPPURE torna a scorrere tra le foto
+                - SE Mi piace più delle altre?
+                    - prepara alla pubblicazione
+                        - SE ho controllato tutte le foto?
+                            - PUBBLICA
+                        - OPPURE torna a scorrere tra le foto    
+                    - OPPURE torna a scorrere tra le foto 
+                - OPPURE torna a scorrere tra le foto
         - OPPURE prepara alla pubblicazione
         - SE ho controllato tutte le foto?
             - Pubblica
